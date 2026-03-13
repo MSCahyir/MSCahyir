@@ -4,7 +4,7 @@
 ---
 
 ### 💻 About Me
-I am a **Software Engineer** with 3+ years of professional experience, specializing in backend development and scalable architectures. Currently, I work at **Fiorent**, where I develop enterprise-grade operational platforms for major B2B clients in the fleet and car rental industry (e.g., DenizBank, Doğan Trend).
+I am a **Software Engineer** with 4+ years of professional experience, specializing in backend development and scalable architectures. Currently, I work at **Fiorent**, where I develop enterprise-grade operational platforms for major B2B clients in the fleet and car rental industry (e.g., DenizBank, Doğan Trend).
 
 I focus on building maintainable, testable, and performant systems using **.NET** technologies.
 
